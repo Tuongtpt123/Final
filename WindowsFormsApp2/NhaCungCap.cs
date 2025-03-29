@@ -153,7 +153,7 @@ namespace WindowsFormsApp2
         private void button3_Click(object sender, EventArgs e)
         {
             action = "edit";
-            groupBox1.Text = button2.Text + " Nhà cung cấp";
+            groupBox1.Text = button3.Text + " Nhà cung cấp";
             Set1(true);
             textBox2.Enabled = false;
             Set3(false);
@@ -162,7 +162,7 @@ namespace WindowsFormsApp2
         private void button4_Click(object sender, EventArgs e)
         {
             action = "edit";
-            groupBox1.Text = button2.Text + " Nhà cung cấp";
+            groupBox1.Text = button4.Text + " Nhà cung cấp";
             Set1(true);
             Set4(false);
         }
@@ -229,5 +229,19 @@ namespace WindowsFormsApp2
             
         }
     }
+
+        private void dataGridView1_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                DataGridViewRow row = dataGridView1.SelectedRows[0];
+                textBox2.Text = row.Cells["supplier_id"].Value.ToString();
+                textBox3.Text = row.Cells["supplier_name"].Value.ToString();
+                textBox4.Text = row.Cells["supplier_address"].Value.ToString();
+                textBox5.Text = row.Cells["supplier_email"].Value.ToString();
+                textBox6.Text = row.Cells["supplier_phone"].Value.ToString();
+                textBox7.Text = row.Cells["supplier_debt"].Value.ToString();
+            }
+        }
     }
 }

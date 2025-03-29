@@ -40,14 +40,14 @@
             this.reportViewer1.Size = new System.Drawing.Size(800, 450);
             this.reportViewer1.TabIndex = 0;
             // 
-            // ItemSoldRpForm
+            // inventoryRpForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.reportViewer1);
-            this.Name = "ItemSoldRpForm";
-            this.Text = "ItemSoldRpForm";
+            this.Name = "inventoryRpForm";
+            this.Text = "Báo cáo hàng tồn kho";
             this.Load += new System.EventHandler(this.ItemSoldRpForm_Load);
             this.ResumeLayout(false);
 

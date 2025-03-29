@@ -52,6 +52,7 @@
             this.birthDateTimePicker = new System.Windows.Forms.DateTimePicker();
             this.phoneTextBox = new System.Windows.Forms.TextBox();
             this.usernameTextBox = new System.Windows.Forms.TextBox();
+            this.lOGIN_INFOBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.passwordTextBox = new System.Windows.Forms.TextBox();
             this.uSER_ROLEBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
@@ -75,7 +76,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.userInfoDgv = new System.Windows.Forms.DataGridView();
-            this.lOGIN_INFOBindingSource = new System.Windows.Forms.BindingSource(this.components);
             user_idLabel = new System.Windows.Forms.Label();
             nameLabel = new System.Windows.Forms.Label();
             emailLabel = new System.Windows.Forms.Label();
@@ -88,11 +88,11 @@
             label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.projectDBDataSet3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.uSER_INFOBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lOGIN_INFOBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.uSER_ROLEBindingSource)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.userInfoDgv)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.lOGIN_INFOBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // user_idLabel
@@ -301,6 +301,11 @@
             this.usernameTextBox.Name = "usernameTextBox";
             this.usernameTextBox.Size = new System.Drawing.Size(189, 26);
             this.usernameTextBox.TabIndex = 16;
+            // 
+            // lOGIN_INFOBindingSource
+            // 
+            this.lOGIN_INFOBindingSource.DataMember = "FK_LOGIN_INFO_USER_INFO";
+            this.lOGIN_INFOBindingSource.DataSource = this.uSER_INFOBindingSource;
             // 
             // passwordTextBox
             // 
@@ -552,11 +557,6 @@
             this.userInfoDgv.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.userInfoDgv_CellContentClick);
             this.userInfoDgv.SelectionChanged += new System.EventHandler(this.userInfoDgv_SelectionChanged);
             // 
-            // lOGIN_INFOBindingSource
-            // 
-            this.lOGIN_INFOBindingSource.DataMember = "FK_LOGIN_INFO_USER_INFO";
-            this.lOGIN_INFOBindingSource.DataSource = this.uSER_INFOBindingSource;
-            // 
             // FormUsers
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -573,18 +573,18 @@
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FormUsers";
-            this.Text = "FormUsers";
+            this.Text = "Danh sách người dùng";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FormUsers_Load);
             ((System.ComponentModel.ISupportInitialize)(this.projectDBDataSet3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.uSER_INFOBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lOGIN_INFOBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.uSER_ROLEBindingSource)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.userInfoDgv)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.lOGIN_INFOBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

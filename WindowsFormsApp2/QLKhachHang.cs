@@ -178,9 +178,10 @@ namespace WindowsFormsApp2
         {
             action = "edit";
             Set1(true);
-            groupBox1.Text = button2.Text + " sản phẩm: ";
+            groupBox1.Text = button3.Text + " sản phẩm: ";
             textBox2.Enabled = false;
             Set3(false);
+
             if (string.IsNullOrEmpty(textBox2.Text))
             {
                 MessageBox.Show("vui long chon ten khach hang!");
@@ -192,7 +193,7 @@ namespace WindowsFormsApp2
         {
             action = "delete";
             Set1(true);
-            groupBox1.Text = button2.Text + " sản phẩm: ";
+            groupBox1.Text = button4.Text + " sản phẩm: ";
             textBox3.Enabled = false;
             Set4(false);
             
@@ -211,5 +212,15 @@ namespace WindowsFormsApp2
             
         }
     }
+
+        private void dataGridView1_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                DataGridViewRow row = dataGridView1.SelectedRows[0];
+                textBox2.Text = row.Cells["customer_id"].Value.ToString();
+                textBox3.Text = row.Cells["customer_name"].Value.ToString();
+            }
+        }
     }
 }

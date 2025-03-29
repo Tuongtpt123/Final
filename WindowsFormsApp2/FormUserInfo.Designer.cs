@@ -237,7 +237,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "FormUserInfo";
-            this.Text = "FormUserInfo";
+            this.Text = "Thông tin cá nhân";
             this.Load += new System.EventHandler(this.FormUserInfo_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

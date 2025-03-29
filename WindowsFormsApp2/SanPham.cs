@@ -669,5 +669,21 @@ namespace WindowsFormsApp2
                 textBox2.SelectionStart = textBox2.Text.Length; // Đưa con trỏ về cuối
             }
         }
+
+        private void dataGridView1_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0) {
+                DataGridViewRow row = dataGridView1.SelectedRows[0];
+                textBox2.Text = row.Cells["product_id"].Value.ToString();
+                textBox3.Text = row.Cells["product_name"].Value.ToString();
+                textBox4.Text = row.Cells["price"].Value.ToString();
+                textBox7.Text = row.Cells["inventory_quantity"].Value.ToString();
+                string warranty = row.Cells["warranty"].Value.ToString();
+                if (warranty == "12 tháng") radioButton1.Checked = true;
+                else if (warranty == "24 tháng") radioButton2.Checked = true;
+                else if (warranty == "Không có") radioButton3.Checked = true;
+                
+            }
+        }
     }
 }

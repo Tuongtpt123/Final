@@ -40,14 +40,14 @@
             this.reportViewer1.Size = new System.Drawing.Size(800, 450);
             this.reportViewer1.TabIndex = 0;
             // 
-            // SDeptRpForm
+            // SDebtRpForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.reportViewer1);
-            this.Name = "SDeptRpForm";
-            this.Text = "SDeptRpForm";
+            this.Name = "SDebtRpForm";
+            this.Text = "Báo cáo công nợ với nhà cung cấp";
             this.Load += new System.EventHandler(this.SDeptRpForm_Load);
             this.ResumeLayout(false);
 

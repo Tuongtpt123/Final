@@ -1,0 +1,207 @@
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\QLCHLinhKienMayTinh.csproj.AssemblyReference.cache
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormAddCustomer.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormAddReceipt.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Main.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OrderForm.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SDebtRpForm.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\QLCHLinhKienMayTinh.csproj.GenerateResource.cache
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\QLCHLinhKienMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\QLCHLinh.F5B9DF2D.Up2Date
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\EnvDTE.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\stdole.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inventoryRpForm.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormUserInfo.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormUsers.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormChangePassword.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\EnvDTE.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\stdole.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\QLCHLinhKienMayTinh.csproj.AssemblyReference.cache
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormAddCustomer.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormAddReceipt.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormChangePassword.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Main.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormUserInfo.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormUsers.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inventoryRpForm.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmSupplier.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OrderForm.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmCustomer.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmProDuct.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SDebtRpForm.resources
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\QLCHLinhKienMayTinh.csproj.GenerateResource.cache
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\QLCHLinhKienMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\QLCHLinh.F5B9DF2D.Up2Date
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\2chue\source\repos\WindowsFormsApp1 - Copy (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
